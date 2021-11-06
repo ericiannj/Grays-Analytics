@@ -41,7 +41,7 @@ Alien Invasion is a Processing's application
 
 ## Application Photos
 
-<img src="./Grays_Analytics/data/Image02.png">
+<img src="./Grays_Analytics/data/Image01.png">
 
 
 
